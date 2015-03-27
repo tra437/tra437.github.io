@@ -1,6 +1,6 @@
 body {
-	background: orange;
-	color: white;
+	background: url ("torchy.jpg");
+	background-size: cover;
 	font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif
 }
 
