@@ -1,12 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Comfortaa:400,700);
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display);
+
 body {
-	background: url("torchy.jpg");
-	background-size: cover;
-	font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif
+	background: orange;
+	color: white;
+	font-family: 'Playfair Display', serif;
 }
 
-h1 {
+h1, h2 {
+	font-family: 'Comfortaa', cursive;; 
 	color: white;
 }
+
 
 #slogan{
 	font-style: italic;
